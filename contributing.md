@@ -174,4 +174,4 @@ conflicting.
 
 ---
 
-*terraria-launcher · Updated 2026-10-25 · Shared under the MIT License*
+*terraria-launcher · Updated 2026-10-26 · Shared under the MIT License*
